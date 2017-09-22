@@ -1,3 +1,4 @@
+#plotterturtle module by Thomas Rutgers, WDKA Interaction station
 import chiplotle, turtle
 from random import randint
 from datetime import datetime
