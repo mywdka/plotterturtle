@@ -8,8 +8,6 @@ It generates a .plt file that can be written to the plotter later
 
 The scaling is optimized for HP 7475A plotters in A3 format
 
-Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
-
 
 ## How-to
 
@@ -47,3 +45,7 @@ Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably 
 ## Interactive mode
 
 To make the plotter execute the commands on the fly, change the `OFFLINE = True` to `False` in the plotterturtle.py file.
+
+---
+
+Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
