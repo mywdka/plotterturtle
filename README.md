@@ -12,7 +12,8 @@ The scaling is optimized for HP 7475A plotters in A3 format
 ## How-to
 
 ### Connecting a plotter
-*These settings are for a HP 7475A plotter. Another plotter will probably work too, although you may have to change the scaling.
+*These settings are for a HP 7475A plotter. Another plotter will probably work too, although you may have to change the scaling.*
+
 Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings:
 
 `S2 S1 Y US A3 B4 B3 B2 B1`
@@ -22,7 +23,7 @@ Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably 
 ### Installing the chiplotle library
 * First install pip. Open a terminal window, and type: `sudo easy_install pip`
 * Then install chiplotle. type: `sudo pip install chiplotle`
-* Run chiplotle once. type: `chiplotle` and press ENTER two times. It will generate some files in the home-folder. *When using this in a workshop, make sure this is done for the user that is logged in at that moment, else python will give an error
+* Run chiplotle once. type: `chiplotle` and press ENTER two times. It will generate some files in the home-folder. *When using this in a workshop, make sure this is done for the user that is logged in at that moment, else python will give an error.*
 ### Write a program
 * Open the mydrawing.py example in a text editor, (for instance Sublime text) and run it (in Sublime-Text: command-B)
 ### Plot it!
