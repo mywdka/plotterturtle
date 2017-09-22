@@ -9,7 +9,7 @@ This is a small python module linking python's Turtle Graphics to the Chiplotle 
 ### Connecting a plotter
 *The plotters i use are HP 7475A plotters. Another plotter will probably work too, although you may have to change the scaling.*
 
-Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. The little DIP-switches next to the connector are set like this:
+Connect the plotter with a USB-to-Serial adapter. Install the drivers. For the ones we have at the WDKA, [this driver](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. The little DIP-switches next to the connector are set like this:
 
 `S2 S1 Y US A3 B4 B3 B2 B1`
 
