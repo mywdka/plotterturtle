@@ -45,3 +45,4 @@ To make the plotter execute the commands on the fly, change the `OFFLINE = True`
 ---
 
 Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
+Compatible with the laser-cut physical [turtleblocks](http://www.github.com/mywdka/turtleblocks/) for teaching programming
