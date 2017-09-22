@@ -16,9 +16,9 @@ Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
 ### Connecting a plotter
 Connect the HP7475A plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings for the 7475A plotter:
 
-`S2 S1  Y US A3 B4 B3 B2 B1`
+`S2 S1 Y US A3 B4 B3 B2 B1`
 
-`vv vv vv ^^ ^^ ^^ vv ^^ vv`
+`vv vv v ^^ ^^ ^^ vv ^^ vv`
 
 ### Installing the chiplotle library
 * First install pip. Open a terminal window, and type: `sudo easy_install pip`
