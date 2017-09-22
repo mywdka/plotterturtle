@@ -26,7 +26,7 @@ Connect the HP7475A plotter with a USB-to-Serial adapter. Install the drivers. P
 ### Write a program
 * Open the mydrawing.py example in a text editor, (for instance Sublime text) and run it (in Sublime-Text: command-B)
 ### Plot it!
-* When there are no errors, the console will show a .plt file is being created with the current time as its file name. To plot this file: open a terminal window and run `__chiplotle__` . After the plotter has been found, type for instance `plotter.write_file('140318.plt')` Of course, make sure the directory is correct.
+* When there are no errors, the console will show a .plt file is being created with the current time as its file name. To plot this file: open a terminal window and run `chiplotle` . After the plotter has been found, type for instance `plotter.write_file('140318.plt')` Of course, make sure the directory is correct.
 
 ## Supported commands
 * begin()
