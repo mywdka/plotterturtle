@@ -13,7 +13,8 @@ Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
 ## How-to
 
 ### Connecting a plotter
-Connect the HP7475A plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings for the 7475A plotter:
+*These settings are for a HP 7475A plotter. Another plotter will probably work too, although you may have to change the scaling.
+Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings:
 
 `S2 S1 Y US A3 B4 B3 B2 B1`
 
