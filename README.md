@@ -20,7 +20,7 @@ Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably 
 * Then install chiplotle. type: `sudo pip install chiplotle`
 * Run chiplotle once. type: `chiplotle` and press ENTER two times. It will generate some files in the home-folder. *When using this in a workshop, make sure this is done for the user that is logged in at that moment, else python will give an error.*
 ### Write a program
-* Open the mydrawing.py example in a text editor, (for instance Sublime text) and run it (in Sublime-Text: command-B)
+* Open the mydrawing.py example in a text editor, (for instance Sublime text), run it (in Sublime-Text: command-B), extend it.
 ### Plot it!
 * When there are no errors, the console will show a .plt file is being created with the current time as its file name. To plot this file: open a terminal window and run `chiplotle` . After the plotter has been found, type for instance `plotter.write_file('140318.plt')` Of course, make sure the directory is correct.
 
