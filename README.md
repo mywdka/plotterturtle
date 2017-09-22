@@ -18,7 +18,7 @@ Connect the HP7475A plotter with a USB-to-Serial adapter. Install the drivers. P
 
 `S2 S1  Y US A3 B4 B3 B2 B1`
 
-`__ __ __ -- -- -- __ -- __`
+`vv vv vv ^^ ^^ ^^ vv ^^ vv`
 
 ### Installing the chiplotle library
 * First install pip. Open a terminal window, and type: `sudo easy_install pip`
