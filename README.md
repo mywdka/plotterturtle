@@ -10,7 +10,7 @@ The scaling is optimized for HP 7475A plotters in A3 format
 Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
 
 
-## Installation
+## How-to
 
 ### Connecting a plotter
 Connect the HP7475A plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings for the 7475A plotter:
