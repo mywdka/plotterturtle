@@ -2,17 +2,12 @@
 
 ## Introduction
 
-This is a small python module combining python's Turtle Graphics and the Chiplotle plotter library
-
-It generates a .plt file that can be written to the plotter later
-
-The scaling is optimized for HP 7475A plotters in A3 format
-
+This is a small python module linking python's Turtle Graphics to the Chiplotle plotter library
 
 ## How-to
 
 ### Connecting a plotter
-*These settings are for a HP 7475A plotter. Another plotter will probably work too, although you may have to change the scaling.*
+*The plotters i use are HP 7475A plotters. Another plotter will probably work too, although you may have to change the scaling.*
 
 Connect the plotter with a USB-to-Serial adapter. Install the drivers. Probably [these](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41) will work. DIP-Switch settings:
 
