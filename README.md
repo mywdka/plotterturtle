@@ -4,7 +4,7 @@
 
 This is a small python module combining python's Turtle Graphics and the Chiplotle plotter library
 
-It generates a .plt file that can be written to the plotter later (or right away, see "interactive mode").
+It generates a .plt file that can be written to the plotter later
 
 The scaling is optimized for HP 7475A plotters in A3 format
 
