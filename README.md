@@ -5,8 +5,10 @@
 This is a small python module combining python's Turtle Graphics and the Chiplotle plotter library
 It generates a .plt file that can be written to the plotter later.
 Or it can drive the plotter right away (see "interactive mode")
+
+The scaling is optimized for HP 7475A plotters in A3 format
+
 Written by Thomas Rutgers for the WDKA Interaction Station
-The scale is optimized for HP 7475A plotters in A3 format
 
 
 ## Installation
