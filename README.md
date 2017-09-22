@@ -8,7 +8,7 @@ Or it can drive the plotter right away (see "interactive mode")
 
 The scaling is optimized for HP 7475A plotters in A3 format
 
-Written by Thomas Rutgers for the WDKA Interaction Station
+Written by Thomas Rutgers for the Willem de Kooning Academy, Rotterdam
 
 
 ## Installation
